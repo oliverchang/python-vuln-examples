@@ -34,8 +34,7 @@ $ curl -X POST -d \
           "https://api.osv.dev/v1/query"
 ```
 
-Longer term, we are working with the PyPI team to
-[build a pipeline](https://github.com/pypa/warehouse/issues/9407) to
-automatically get these vulnerabilities in to package repository. The goal is to
-have the `pip install` (and an additional `pip audit`) command automatically
+Longer term, we are working with the PyPI team to [build a pipeline](https://github.com/pypa/warehouse/issues/9407)
+to automatically get these vulnerabilities into the PyPI repository. The goal is
+to have the `pip install` (and an additional `pip audit`) command automatically
 report vulnerabilities out of the box.
