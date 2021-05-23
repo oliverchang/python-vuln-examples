@@ -1,5 +1,7 @@
 # Python Advisory DB
 
+**(This is a staging repository containing a small number of examples)**
+
 This is community owned repository of vulnerabilities in Python packages.
 
 Entries use a YAML encoding of a [simple format](https://tinyurl.com/vuln-json)
